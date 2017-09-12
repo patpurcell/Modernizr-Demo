@@ -1,0 +1,8 @@
+#test {
+background-image: url('Red-Square.png');  
+  background-image: -webkit-image-set(url('Green_Square.png') 1x, url('Yellow_Square.jpg') 2x);
+}
+
+p{
+	font-family: arial;
+}
